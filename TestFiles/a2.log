@@ -1,0 +1,424 @@
+Apr 24, 2015 2:57:15 AM com.db.dataManger.DataManager runQuery
+INFO: I X (111,Sam,123-456-7891)
+
+Apr 24, 2015 2:57:15 AM com.db.dataManger.DataManager insert
+INFO: SWAP IN T-X P-0 B-15
+
+Apr 24, 2015 2:57:15 AM com.db.dataManger.DataManager insert
+INFO: Inserted: 111, Sam, 123-456-7891
+
+Apr 24, 2015 2:57:15 AM com.db.dataManger.DataManager runQuery
+INFO: R X 697
+
+Apr 24, 2015 2:57:15 AM com.db.dataManger.DataManager read
+INFO: SWAP IN T-X P-0 B-9
+
+Apr 24, 2015 2:57:15 AM com.db.dataManger.DataManager read
+INFO: SWAP IN T-X P-0 B-9
+
+Apr 24, 2015 2:57:15 AM com.db.dataManger.DataManager read
+INFO: SWAP IN T-X P-0 B-9
+
+Apr 24, 2015 2:57:15 AM com.db.dataManger.DataManager read
+INFO: Read: 697, Xellsing, 587-363-4630
+
+Apr 24, 2015 2:57:15 AM com.db.dataManger.DataManager runQuery
+INFO: G X 987
+
+Apr 24, 2015 2:57:15 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-0
+
+Apr 24, 2015 2:57:15 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-1
+
+Apr 24, 2015 2:57:15 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-2
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-3
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-4
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-5
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-6
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-5
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-7
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-7
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-8
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-8
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-9
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-9
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-10
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-10
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-11
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-11
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-12
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-12
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-13
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-13
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-14
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-14
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-15
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-15
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-2
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-2
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-15
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-15
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-1
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-1
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-9
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-9
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-0
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-0
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-5
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-5
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-14
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-14
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-3
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-3
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-10
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-10
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-4
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-4
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-8
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-8
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-11
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-11
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-12
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-12
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-6
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-6
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-7
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-7
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-13
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: GCount: 0
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager runQuery
+INFO: G X 123
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-13
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-0
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-0
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-1
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-1
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-2
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-2
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-3
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-3
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-4
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-4
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-5
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-5
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-6
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-6
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-7
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-7
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-8
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-8
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-9
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-9
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-10
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-10
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-11
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-11
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-12
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-12
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-13
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-13
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-14
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-14
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-15
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-15
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-2
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-2
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-15
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-15
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-1
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-1
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-9
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-9
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-0
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-0
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-5
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-5
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-14
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-14
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-3
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-3
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-10
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-10
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-4
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-4
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-8
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-8
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-11
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-11
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-12
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-12
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-6
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-6
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-7
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP OUT T-X P-0 B-7
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: SWAP IN T-X P-0 B-13
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read_phone
+INFO: GCount: 2
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager runQuery
+INFO: I X (999,Bhavin,987-654-3210)
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager insert
+INFO: SWAP IN T-X P-0 B-7
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager insert
+INFO: Inserted: 999, Bhavin, 987-654-3210
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager runQuery
+INFO: R X 1999
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read
+INFO: SWAP IN T-X P-0 B-15
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read
+INFO: SWAP IN T-X P-0 B-15
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read
+INFO: SWAP OUT T-X P-0 B-9
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read
+INFO: SWAP IN T-X P-0 B-15
+
+Apr 24, 2015 2:57:16 AM com.db.dataManger.DataManager read
+INFO: Read: 1999, Xellsing, 118-130-3304
+
